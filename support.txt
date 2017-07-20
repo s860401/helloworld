@@ -1,0 +1,5 @@
+JOptionPane.showMessageDialog(null, "你點選了:" + s, "訊息",     JOptionPane.INFORMATION_MESSAGE);
+127.0.0.1
+
+
+
